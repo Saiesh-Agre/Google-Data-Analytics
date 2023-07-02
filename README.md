@@ -2,7 +2,7 @@
 The Google Data Analytics course on Coursera is designed to provide learners with the skills and knowledge necessary to analyze data and make data-driven decisions. This course covers a wide range of topics, including data collection, transformation, visualization, and interpretation.
 
 
-Welcome to the GitHub repository for the **Google Data Analytics** course summary! This repository aims to provide concise and **informative summaries* of all the courses included in the **Google Data Analytics specialization*. Whether you're a student interested in learning about data analysis or a professional seeking to expand your knowledge, this repository is designed to serve as a helpful resource.
+Welcome to the GitHub repository for the **Google Data Analytics** course summary! This repository aims to provide concise and *informative summaries* of all the courses included in the *Google Data Analytics specialization*. Whether you're a student interested in learning about data analysis or a professional seeking to expand your knowledge, this repository is designed to serve as a helpful resource.
 
 Each course summary in this repository provides an overview of the course content, key topics covered, and the skills you can expect to gain. The summaries are designed to be informative yet concise, allowing you to quickly grasp the essence of each course and make an informed decision about which courses to pursue.
 
